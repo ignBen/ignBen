@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I am Benjamin! 👋
 
-<!--
-**ignBen/ignBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+I am a 1st year computer science and mathematics student at the University of Exeter, and a Level Designer for Spark Universe. I am passionate about creating new and exciting experiences for a wide range of communities. I am always seeking growth, challange, and risks to become better each day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎱 My Passions
+
+- Level and Game Design
+- Learning about Technology
+- UI/UX Design
+- Meeting and learning from new people from all around the world
+
+#### ✉️ Contact
+
+Feel free to contact me:
+
+benjamingrindrod@gmail.com | [@ignBenjamin](https://twitter.com/ignBenjamin)

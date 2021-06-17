@@ -4,7 +4,7 @@
 
 I am a 2nd year computer science and mathematics student at the University of Exeter, and a Level Designer for Spark Universe. I am passionate about creating new and exciting experiences for a wide range of communities. I am always seeking growth, challange, and risks to become better each day.
 
-#### 🎱  My Passions
+#### 🎉 My Passions
 
 - Level and Game Design
 - Learning about Technology
